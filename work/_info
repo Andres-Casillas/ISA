@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/bancoRegistos
+vALU
+Z0 !s110 1729888393
+!i10b 1
+!s100 QA_B;5KOZQ8;C:knd6k]L1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImiK5EVCoJPZA4V^UczJ760
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA
+w1729351830
+8C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ALU.v
+FC:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ALU.v
+!i122 97
+L0 3 35
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1729888393.000000
+!s107 C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ALU.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u
+vBR
+R0
+!i10b 1
+!s100 TQe[k^8@JQM@K<RhbL22n2
+R1
+IGC6LB3HI:4R5:GnmeC5kj1
+R2
+R3
+w1729838402
+8C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/BR.v
+FC:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/BR.v
+!i122 96
+L0 3 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/BR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/BR.v|
+!i113 1
+R6
+R7
+n@b@r
+vISA
+R0
+!i10b 1
+!s100 ;TWUn]0SVn00Y86OW@HUo1
+R1
+IIAF3[j0ZZn?cQnhH=?Nde3
+R2
+R3
+w1729842534
+8C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ISA.v
+FC:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ISA.v
+!i122 99
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ISA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/ISA.v|
+!i113 1
+R6
+R7
+n@i@s@a
+vISA_TB
+R0
+!i10b 1
+!s100 lUUWGlbkC2R6d>ag0kkCa1
+R1
+I>dlm_Y^F09XoLNf5Kzma]1
+R2
+R3
+w1729843937
+8C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/Tb_ISA.v
+FC:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/Tb_ISA.v
+!i122 100
+L0 3 87
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/Tb_ISA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/Tb_ISA.v|
+!i113 1
+R6
+R7
+n@i@s@a_@t@b
+vRAM
+R0
+!i10b 1
+!s100 i_0dh0T>4CO2cERU`75J13
+R1
+IHE04AKVM[oT]j]BimXbA?3
+R2
+R3
+w1729888389
+8C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/RAM.v
+FC:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/RAM.v
+!i122 98
+L0 3 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PC 1/Desktop/2024B/Sem Arquitectura de sistemas/ISA/RAM.v|
+!i113 1
+R6
+R7
+n@r@a@m
